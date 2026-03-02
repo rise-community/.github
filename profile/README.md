@@ -1,5 +1,5 @@
 
-<img width="2292" height="412" alt="studio no bg2" src="https://github.com/user-attachments/assets/567ce120-1b6d-4ffb-a87a-980ab8be4b84" />
+<img width="3342" height="600" alt="studio no bg" src="https://github.com/user-attachments/assets/6dd284a1-92ad-4164-8a2f-8be3e6ce4238" />
 
 <!--
 
