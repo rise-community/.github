@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<img width="4177" height="1474" alt="studio no bg" src="https://github.com/user-attachments/assets/6923984d-cca4-4843-9e7f-c094d2050d80" />
 
 <!--
 
