@@ -1,5 +1,6 @@
 
 <img width="3342" height="600" alt="studio no bg" src="https://github.com/user-attachments/assets/6dd284a1-92ad-4164-8a2f-8be3e6ce4238" />
+<hr>
 
 <!--
 
