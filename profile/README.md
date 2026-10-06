@@ -1,24 +1,24 @@
 <div align="center">
   <img height="200" src="https://i.imgur.com/nQHRamg.png" />
 </div>
-
-### Software · Automation · Digital Products
+<div align="center">
+💻・Software · Automation · Digital Products
+</div>
 
 <div align="center">
 
 **RISE Studio** is an independent software studio focused on building  
 modern applications, automation systems and digital products.
 
-[Website](https://YOUR-WEBSITE.com) •
-[Instagram](https://instagram.com/YOUR-USERNAME) •
-[Discord](https://discord.gg/YOUR-INVITE) •
-[LinkedIn](https://linkedin.com/company/YOUR-COMPANY)
+[Website](https://riseyazilim.com) •
+[Instagram](https://instagram.com/risestudioinc) •
+[LinkedIn](https://www.linkedin.com/company/risestudioinc/)
 
 </div>
 
 ###
 
-## 🚀 What We Do
+## 🚀・What We Do
 
 <table>
   <tr>
@@ -48,7 +48,7 @@ Reliable digital products built with performance, usability and scalability in m
 
 ###
 
-## ⭐ Featured Projects
+<!-- ## ⭐ Featured Projects
 
 <div align="center">
 
@@ -58,7 +58,7 @@ Reliable digital products built with performance, usability and scalability in m
 | **[PROJECT NAME](https://github.com/RISE-Studio/REPOSITORY)** | Short description of the project |
 | **[PROJECT NAME](https://github.com/RISE-Studio/REPOSITORY)** | Short description of the project |
 
-</div>
+</div> -->
 
 ###
 
@@ -66,19 +66,19 @@ Reliable digital products built with performance, usability and scalability in m
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,cs,dotnet,docker,postgres,mongodb,linux,git,githubactions" />
+<img src="https://skillicons.dev/icons?i=github,figma,vscode,html,css,bootstrap,go,react,js,ts,nodejs,cloudflare,cs,cpp,docker,git,grafana,docker,linux,mongodb," />
 
 </div>
 
 ###
-
+<!--
 ## 📊 Development
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RISE-Studio&show_icons=true&hide_border=true&theme=transparent" />
 
-</div>
+</div> -->
 
 ###
 
@@ -96,7 +96,7 @@ or simply getting in touch, feel free to reach out.
 
 **Have an idea? Let's build it.**
 
-[Contact RISE Studio](mailto:support@rise.net.tr)
+[Contact RISE Studio](mailto:contact@riseyazilim.com)
 
 <br>
 
