@@ -1,5 +1,18 @@
 <div align="center">
-  <img height="200" src="https://i.imgur.com/nQHRamg.png" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://i.imgur.com/MwbV6iY.png"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://i.imgur.com/VB2WXiY.png"
+    />
+    <img
+      src="https://i.imgur.com/VB2WXiY.png"
+      alt="RISE Studio"
+    />
+  </picture>
 </div>
 <div align="center">
 💻・Software · Automation · Digital Products
