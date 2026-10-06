@@ -1,87 +1,105 @@
-<br clear="both">
+<div align="center">
+  <img height="200" src="https://i.imgur.com/nQHRamg.png" />
+</div>
+
+### Software · Automation · Digital Products
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/nQHRamg.png"  />
+
+**RISE Studio** is an independent software studio focused on building  
+modern applications, automation systems and digital products.
+
+[Website](https://YOUR-WEBSITE.com) •
+[Instagram](https://instagram.com/YOUR-USERNAME) •
+[Discord](https://discord.gg/YOUR-INVITE) •
+[LinkedIn](https://linkedin.com/company/YOUR-COMPANY)
+
 </div>
 
 ###
 
-<h2 align="left"></h2>
+## 🚀 What We Do
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+
+### 💻 Software Development
+
+Modern and scalable applications designed around real-world needs.
+
+</td>
+    <td width="33%" align="center">
+
+### ⚙️ Automation
+
+Tools and systems that simplify workflows and eliminate repetitive tasks.
+
+</td>
+    <td width="33%" align="center">
+
+### 🌐 Digital Products
+
+Reliable digital products built with performance, usability and scalability in mind.
+
+</td>
+  </tr>
+</table>
 
 ###
 
-<br clear="both">
-
-<h3 align="center">📱 Socials</h3>
-
-###
-
-<br clear="both">
+## ⭐ Featured Projects
 
 <div align="center">
-  <a href="https://www.linkedin.com/company/risestudioinc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/risestudioinc/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/JzRaqZ62Up" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
+
+| Project | Description |
+| :--- | :--- |
+| **[PROJECT NAME](https://github.com/RISE-Studio/REPOSITORY)** | Short description of the project |
+| **[PROJECT NAME](https://github.com/RISE-Studio/REPOSITORY)** | Short description of the project |
+| **[PROJECT NAME](https://github.com/RISE-Studio/REPOSITORY)** | Short description of the project |
+
 </div>
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
-<h3 align="center">🚀 Tech Stack</h3>
-
-###
+## 🛠️ Technology Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="40" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,cs,dotnet,docker,postgres,mongodb,linux,git,githubactions" />
+
 </div>
 
 ###
 
-<h2 align="left"></h2>
+## 📊 Development
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RISE-Studio&show_icons=true&hide_border=true&theme=transparent" />
+
+</div>
 
 ###
+
+## 🤝 Collaboration
+
+We believe great software is built through collaboration, clean engineering
+and continuous improvement.
+
+If you're interested in working with us, contributing to one of our projects,
+or simply getting in touch, feel free to reach out.
+
+###
+
+<div align="center">
+
+**Have an idea? Let's build it.**
+
+[Contact RISE Studio](mailto:support@rise.net.tr)
+
+<br>
+
+© 2026 RISE Studio · All rights reserved.
+
+</div>
